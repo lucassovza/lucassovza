@@ -1,16 +1,15 @@
-## Hi there 👋
+## Lucas Souza
 
-<!--
-**lucassovza/lucassovza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product and brand designer. I design systems and build them.
 
-Here are some ideas to get you started:
+Most of my work sits where brand meets product: design systems, tokens,
+interface and the front-end that ships them. Lately for technology and
+payments companies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Portfolio: [souzalucas.com](https://souzalucas.com)
+- LinkedIn: [Lucas Souza](https://www.linkedin.com/in/SEU-USUARIO)
+
+### What lives here
+
+Public repositories are personal projects I design and build end to end.
+Client work stays private.
